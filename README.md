@@ -2,10 +2,12 @@
 
 [![npm version](https://badge.fury.io/js/html-string-replace-webpack-plugin.svg)](https://badge.fury.io/js/html-string-replace-webpack-plugin)
 [![npm](https://img.shields.io/npm/dm/html-string-replace-webpack-plugin.svg)](https://www.npmjs.com/package/html-string-replace-webpack-plugin)
-[![Build Status](https://travis-ci.org/erraX/html-string-replace-webpack-plugin.svg?branch=master)](https://travis-ci.org/erraX/html-string-replace-webpack-plugin)
-[![dependencies](https://david-dm.org/erraX/html-string-replace-webpack-plugin.svg)](https://travis-ci.org/erraX/html-string-replace-webpack-plugin)
-[![Inline docs](http://inch-ci.org/github/erraX/html-string-replace-webpack-plugin.svg?branch=master)](http://inch-ci.org/github/erraX/html-string-replace-webpack-plugin)
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/erraX/html-string-replace-webpack-plugin/issues)
+[![Build Status](https://travis-ci.org/prasanthkarukkuvel/html-string-replace-webpack-plugin.svg?branch=master)](https://travis-ci.org/prasanthkarukkuvel/html-string-replace-webpack-plugin)
+[![dependencies](https://david-dm.org/prasanthkarukkuvel/html-string-replace-webpack-plugin.svg)](https://travis-ci.org/prasanthkarukkuvel/html-string-replace-webpack-plugin)
+[![Inline docs](http://inch-ci.org/github/prasanthkarukkuvel/html-string-replace-webpack-plugin.svg?branch=master)](http://inch-ci.org/github/prasanthkarukkuvel/html-string-replace-webpack-plugin)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/prasanthkarukkuvel/html-string-replace-webpack-plugin/issues)
+
+This lib is the fork of [html-string-replace-webpack-plugin](https://github.com/erraX/html-string-replace-webpack-plugin) to support webpack 4+. 
 
 This is a webpack plugin that replace string in html files that created by `html-webpack-plugin`.   
 This is especially useful for adding some cdn prefix.
