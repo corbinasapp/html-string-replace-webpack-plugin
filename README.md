@@ -1,8 +1,8 @@
 # HTML STRING REPLACE WEBPACK PLUGIN
 
-[![npm version](https://badge.fury.io/js/html-string-replace-webpack-plugin.svg)](https://badge.fury.io/js/html-string-replace-webpack-plugin)
+[![npm version](https://badge.fury.io/js/html-string-replace-webpack-plugin.svg)](https://badge.fury.io/js/webpack-html-string-replace-plugin)
 [![npm](https://img.shields.io/npm/dm/webpack-html-string-replace-plugin.svg)](https://www.npmjs.com/package/webpack-html-string-replace-plugin)
-[![Build Status](https://travis-ci.org/prasanthkarukkuvel/html-string-replace-webpack-plugin.svg?branch=master)](https://travis-ci.org/prasanthkarukkuvel/html-string-replace-webpack-plugin.svg?branch=master)
+[![Build Status](https://travis-ci.org/prasanthkarukkuvel/html-string-replace-webpack-plugin.svg)](https://travis-ci.org/prasanthkarukkuvel/html-string-replace-webpack-plugin.svg)
 [![dependencies](https://david-dm.org/prasanthkarukkuvel/html-string-replace-webpack-plugin.svg)](https://travis-ci.org/prasanthkarukkuvel/html-string-replace-webpack-plugin)
 [![Inline docs](http://inch-ci.org/github/prasanthkarukkuvel/html-string-replace-webpack-plugin.svg?branch=master)](http://inch-ci.org/github/prasanthkarukkuvel/html-string-replace-webpack-plugin)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/prasanthkarukkuvel/html-string-replace-webpack-plugin/issues)
