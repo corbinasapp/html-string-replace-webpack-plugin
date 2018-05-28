@@ -17,7 +17,7 @@ This is especially useful for adding some cdn prefix.
 #### Install the plugin with npm:
 
 ```bash
-$ npm install html-string-replace-webpack-plugin --save-dev
+$ npm install webpack-html-string-replace-plugin --save-dev
 ```
 
 # Basic Usage
@@ -25,7 +25,7 @@ $ npm install html-string-replace-webpack-plugin --save-dev
 Add plugin to webpack config `plugins`. And pass options.
 
 ```javascript
-var HtmlStringReplace = require('html-string-replace-webpack-plugin');
+var HtmlStringReplace = require('webpack-html-string-replace-plugin');
 var webpackConfig = {
     entry: 'index.js',
     output: {
